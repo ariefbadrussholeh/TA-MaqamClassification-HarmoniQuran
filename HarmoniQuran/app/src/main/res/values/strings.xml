@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Harmoni Quran</string>
+
+    <string name="home_title">Harmoni Qur\'an</string>
+    <string name="home_description">Temukan keindahan dalam bacaan Al-Qur\'an dengan mudah melalui aplikasi pengenalan maqam tilawah mujawwad.</string>
+
+    <string name="btn_start">MULAI</string>
+    <string name="txtfield_search">Search</string>
+    <string name="grant_permissions">Grant permissions</string>
+    <string name="spike_width">Spike width</string>
+    <string name="spike_padding">Spike padding</string>
+    <string name="spike_radius">Spike radius</string>
+    <string name="read_permissions_rationale">App needs read permissions to load local audio files and draw waveform</string>
+</resources>
